@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IFsKwTfLepLDb6GXPnsoOcDqGeNy9ycC2sL2HnwYz5I=",
+  "Source": "DecidetucanchaWebApi",
+  "BasePath": "_content/DecidetucanchaWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
